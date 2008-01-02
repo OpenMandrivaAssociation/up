@@ -6,6 +6,7 @@ License:	GPL
 Group:		System/Base
 URL:		http://www.burdell.org/up.php3
 Source:		%{name}-%{version}.tar.bz2
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 up displays the uptime of the system accounting for decades, years, weeks,
