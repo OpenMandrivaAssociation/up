@@ -1,7 +1,7 @@
 Summary:	Displays the uptime in a human readable format
 Name:		up
 Version:	0.3
-Release:	%mkrel 12
+Release:	13
 License:	GPL
 Group:		System/Base
 URL:		http://www.burdell.org/up.php3
