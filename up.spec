@@ -4,7 +4,7 @@ Version:	0.3
 Release:	13
 License:	GPL
 Group:		System/Base
-URL:		http://www.burdell.org/up.php3
+URL:		https://www.burdell.org/up.php3
 Source:		%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 
